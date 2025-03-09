@@ -17,8 +17,10 @@ Os exercícios abordam os seguintes tópicos:
 
 ✅ **Vetores e Matrizes**  
 
-Os exercícios foram retirados de duas fontes:  
+Os exercícios foram retirados de duas fontes: 
+
 📌 **Beecrowd** (antigo URI Online Judge)  
+
 📌 **Exercícios passados pelo professor do curso**  
 
 💡 O enunciado de cada exercício está comentado no início do código para facilitar o entendimento.  
