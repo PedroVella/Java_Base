@@ -10,8 +10,11 @@ Esses exercícios foram essenciais para praticar conceitos fundamentais da progr
 Os exercícios abordam os seguintes tópicos:  
 
 ✅ **Estrutura sequencial**  
+
 ✅ **Estruturas condicionais**  
+
 ✅ **Laços de repetição**  
+
 ✅ **Vetores e Matrizes**  
 
 Os exercícios foram retirados de duas fontes:  
@@ -49,10 +52,13 @@ Este repositório me ajudou a reforçar conceitos essenciais de lógica de progr
 
 Clone o repositório:
 
-1. git clone https://github.com/PedroVella/Java_Base.git
-2. Abra o IntelliJ IDEA e importe o projeto.
-3. Certifique-se de que o Java 11 está instalado e configurado.
-4. Escolha um exercício e execute-o!
+1.  git clone https://github.com/PedroVella/Java_Base.git
+
+2.  Abra o IntelliJ IDEA e importe o projeto.
+
+3.  Certifique-se de que o Java 11 está instalado e configurado.
+
+4.  Escolha um exercício e execute-o!
 
 ---
 
