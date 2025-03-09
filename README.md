@@ -34,6 +34,7 @@ Os exercícios foram retirados de duas fontes:
 
 ## 📚 Aprendizados
 Este repositório me ajudou a reforçar conceitos essenciais de lógica de programação, tais como:
+
 ✔️ Estruturas básicas da linguagem Java
 ✔️ Controle de fluxo com condicionais e laços
 ✔️ Manipulação de vetores e matrizes
@@ -42,7 +43,9 @@ Este repositório me ajudou a reforçar conceitos essenciais de lógica de progr
 ---
 
 ## 🚀 Como Executar os Exercícios
+
 Clone o repositório:
+
 1. git clone https://github.com/PedroVella/Java_Base.git
 2. Abra o IntelliJ IDEA e importe o projeto.
 3. Certifique-se de que o Java 11 está instalado e configurado.
@@ -51,6 +54,7 @@ Clone o repositório:
 ---
 
 # 🤝 Contribuições
+
 Se quiser sugerir melhorias ou discutir soluções, fique à vontade para abrir uma issue ou enviar um pull request!
 
 👨‍💻 Desenvolvido por Pedro Vella
