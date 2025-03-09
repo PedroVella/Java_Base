@@ -69,4 +69,5 @@ Clone o repositório:
 Se quiser sugerir melhorias ou discutir soluções, fique à vontade para abrir uma issue ou enviar um pull request!
 
 👨‍💻 Desenvolvido por Pedro Vella
+
 📧 Contato: opedro.vella@gmail.com
