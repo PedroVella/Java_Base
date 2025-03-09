@@ -36,8 +36,11 @@ Os exercícios foram retirados de duas fontes:
 Este repositório me ajudou a reforçar conceitos essenciais de lógica de programação, tais como:
 
 ✔️ Estruturas básicas da linguagem Java
+
 ✔️ Controle de fluxo com condicionais e laços
+
 ✔️ Manipulação de vetores e matrizes
+
 ✔️ Melhoria no raciocínio lógico aplicado à programação
 
 ---
